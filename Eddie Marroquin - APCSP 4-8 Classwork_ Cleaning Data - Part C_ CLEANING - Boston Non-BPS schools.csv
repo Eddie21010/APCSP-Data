@@ -1,0 +1,20 @@
+OBJECTID_1,SCHID,NAME,ADDRESS,TOWN_MAIL,TOWN,STATE,ZIP,PRINCIPAL,PHONE,FAX,GRADES,TYPE,shape_wkt
+,5300,Roxbury Prep - Mission Hill,120 Fisher Avenue,Roxbury,BOSTON,MA,2120,Dana Lehman,617-566-2361,617-566-2373,"6,7,8",CHA,POINT (-71.105142549999982 42.327667079000037)
+,5470,Helen Davis Leadership Academy Charter Public School,23 Leonard Street,Boston,BOSTON,MA,2122,Karmala Sherwood,617-474-7950,617-474-7957,"6,7,8",CHA,POINT (-71.058716513999968 42.301393980000057)
+,350950,British School of Boston,416-420 Pond Street,Jamaica Plain,BOSTON,MA,2130,Bruce Robinson,617-522-2261,617-522-0385,"PK,K,1,2,3,4,5,6,7,8,9,10,11,12",PRI,POINT (-71.130149599999982 42.306584332000057)
+,5230001,EDCO Collaborative - EDCO YOUTH ALT,"650 Beacon St , 3rd Floor",Boston,BOSTON,MA,2215,,617-262-9562,617-262-0098,,COP,
+,5600,Academy Of the Pacific Rim Charter Public School,1 Westinghouse Plaza,Hyde Park,BOSTON,MA,2136,Jenne Colasacco,617-361-0050,617-361-0045,"5,6,7,8,9,10,11,12",CHA,
+,5500,Boston Collegiate Charter School (Middle and High School),11 Mayhew Street,Dorchester,BOSTON,MA,2125,Tobey Jackson,617-265-1172,617-265-1176,,CHA,
+,5520,Boston Preparatory Charter Public School,1286 Hyde Park Avenue,Hyde Park,BOSTON,MA,2136,Amanda Colley,617-333-6688,617-333-6689,"6,7,8,9,10",,
+,5400,Boston Renaissance Charter Public School,1415 Hyde Park Avenue,Hyde Park,BOSTON,MA,2136,Roger Harris,617-357-0900,617-338-2647,"K,1,2,3,4,5,6",CHA,POINT (-71.126821746999951 42.250367685000072)
+,5440,Codman Academy Charter Public School,637 Washington Street,Dorchester,BOSTON,MA,2124,Thabiti Brown,,617-287-9064,"9,10,11,12",CHA,POINT (-71.071930592999934 42.289439664000042)
+,5201,Conservatory Lab Charter School - Brighton,320 Washington Street,Brighton,BOSTON,MA,2135,Brad Kershner,,617-254-8909,"K,1,2",CHA,POINT (-71.151760773999968 42.348850986000059)
+,5450,Edward Brooke Charter School - Roslindale,190 Cummins Highway,Roslindale,BOSTON,MA,2131,Jon Clark,,617-325-2260,"K,1,2,3,5,6,7,8",,POINT (-71.122003567999968 42.281689939000046)
+,5490,Excel Academy Charter School - East Boston,58 Moore St.,East Boston,BOSTON,MA,2128,Komal Bhasin,,617-561-1378,"5,6,7,8",CHA,
+,5431,MATCH Charter Public High School,,Boston,BOSTON,MA,2215,Jorge Miranda,,617-232-2838,"9,10,11,12",,POINT (-71.120984039999939 42.352149347000079)
+,5700,Neighborhood House Charter School,21 Queen Street,Dorchester,BOSTON,MA,2122,Kevin Andrews,,617-825-1829,"PK,K,1,2,3,4,5,6,7,8",CHA,POINT (-71.053471384999966 42.293335600000034)
+,8027,Cathedral High,74 Union Park,Boston,BOSTON,MA,2118,Christol Murch,,617-542-1745,"9,10,11,12",PRI,
+,350702,The Advent School,15 Brimmer Street,Boston,BOSTON,MA,2108,Nicole A. DuFauchard,,,,PRI,POINT (-71.072044916999971 42.358347295000044)
+,8168,St John Elementary,,Boston,BOSTON,MA,2113,Karen McLaughlin,,617-227-2188,"PK,K,1,2,3,4,5,6,7,8",PRI,POINT (-71.052861385999961 42.363878616000079)
+,350705,Berea SDA Academy,800 Morton St.,Mattapan,BOSTON,MA,2126,Grafton Jones,617-436-8301,617-436-8304,"PK,K,1,2,3,4,5,6,7,8",PRI,POINT (-71.087714390999963 42.282648553000058)
+,8081,Pope John Paul II Academy (Lower MIlls),2214 Dorchester Avenue,Dorchester,BOSTON,MA,2124,George Milot,617-265-0019,,"PK,K,1,2,3,4,5,6,7,8",PRI,POINT (-71.067173723999986 42.274431978000052)
